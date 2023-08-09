@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GlazkovPavel
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript, react
+- 🌱 I’m currently learning JavaScript, angular, react
 - 📫 How to reach me https://t.me/glazkov_pavel
 
 <!---
